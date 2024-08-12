@@ -2,6 +2,7 @@
 # Aulas de HTML
 
 Códigos feitos em html nas aulas 
+
 -Na primeira página web foi feito o primeiro site com a linguagem html com o "hello world"
 -No exercício 1 fizemos toda a estrutura da página
 -No exercício 2 colocamos os parágrafos e os títulos
